@@ -6,21 +6,21 @@
             "bin": [
                 "sttr.exe"
             ],
-            "hash": "f002a46801583da869160dc298d501ca1ee1eed86ad3035e25ccf88817f8a0bd"
+            "hash": "e103cc69ef8800f222b86b7968609c82da71a7a6b96dcb08661395ebc4728e2d"
         },
         "64bit": {
             "url": "https://github.com/abhimanyu003/sttr/releases/download/v0.2.19/sttr_0.2.19_windows_amd64.tar.gz",
             "bin": [
                 "sttr.exe"
             ],
-            "hash": "c9f003943c70d5dd2de2f251b3386e21ee054beee3d42b7b8c672c9ba75629d4"
+            "hash": "e97bb02ab281d6a354b790d1ff36ec3a1b643586e95712d473acca178b4e4d14"
         },
         "arm64": {
             "url": "https://github.com/abhimanyu003/sttr/releases/download/v0.2.19/sttr_0.2.19_windows_arm64.tar.gz",
             "bin": [
                 "sttr.exe"
             ],
-            "hash": "54030a428e50569ea9c42d37b900eb42670c2f81abc10344b0a968f1e9075f79"
+            "hash": "e6d61b276a02097d4746497573277797d06511f7b0b49fc30afc498ae4320f2e"
         }
     },
     "homepage": "https://github.com/abhimanyu003/sttr",
