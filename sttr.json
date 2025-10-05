@@ -1,26 +1,26 @@
 {
-    "version": "0.2.27",
+    "version": "0.2.28",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/abhimanyu003/sttr/releases/download/v0.2.27/sttr_Windows_i386.zip",
+            "url": "https://github.com/abhimanyu003/sttr/releases/download/v0.2.28/sttr_Windows_i386.zip",
             "bin": [
                 "sttr.exe"
             ],
-            "hash": "3ca3ae0f0978f08eb6b57bfc5a5a25e3750c37a38479069c24b029b33e1ae41d"
+            "hash": "c4c8ab23f2e269dc1bf312371be7e46d29dd47e767c34ed77c061a40846d2f9c"
         },
         "64bit": {
-            "url": "https://github.com/abhimanyu003/sttr/releases/download/v0.2.27/sttr_Windows_x86_64.zip",
+            "url": "https://github.com/abhimanyu003/sttr/releases/download/v0.2.28/sttr_Windows_x86_64.zip",
             "bin": [
                 "sttr.exe"
             ],
-            "hash": "9541a7070f77a4e35143dbde97ae3f87e4208eb86d7ef18a3c499ab6c3dbbf65"
+            "hash": "9524464d4318157dcafd601dea40a9db2450e17419212701facb75e2a6979eae"
         },
         "arm64": {
-            "url": "https://github.com/abhimanyu003/sttr/releases/download/v0.2.27/sttr_Windows_arm64.zip",
+            "url": "https://github.com/abhimanyu003/sttr/releases/download/v0.2.28/sttr_Windows_arm64.zip",
             "bin": [
                 "sttr.exe"
             ],
-            "hash": "4efdcc9fcb988ab052b5d440aad412c7c866f8e74ab362b586202ba946a37e53"
+            "hash": "8b10a35cbe225f5f54d4ef69cb84e8206bb0d0c5a922317c7b5d9db8c8d5dc14"
         }
     },
     "homepage": "https://github.com/abhimanyu003/sttr",
